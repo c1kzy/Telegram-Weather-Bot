@@ -5,8 +5,8 @@ This Telegram bot provides current weather information based on the user's locat
 ## Installation
 Clone this repository:
 ```
-git clone https://git.foxminded.ua/foxstudent106270/task-2.4-weather-bot.git
-cd task-2.4-weather-bot
+git clone https://github.com/c1kzy/Telegram-Weather-Bot.git
+cd telegram-weather-bot
 
 ```
 Click the link "https://t.me/FM24WeatherBot" and run the bot
